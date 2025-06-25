@@ -13,4 +13,9 @@ function calculate(a, b, operation) {
   }
 }
 
+console.log("Add:", calculate(10, 5, 'add'));         
+console.log("Subtract:", calculate(10, 5, 'subtract')); 
+console.log("Multiply:", calculate(10, 5, 'multiply')); 
+console.log("Divide:", calculate(10, 5, 'divide')); 
+
 
